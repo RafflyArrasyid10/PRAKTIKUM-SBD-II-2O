@@ -11,8 +11,8 @@ Berikut adalah daftar file yang tersedia di repository ini:
 
 ## 📋 Keterangan
 - **Mata Kuliah:** Sistem Basis Data II  
-- **Nama:** Ahmad Haidar Ali  
-- **NPM:** 2410010303  
+- **Nama:** Muhammad Raffly Arrasyid 
+- **NPM:** 2410010443
 - **Kelas:** 2[0]Reg.Pagi Banjarmasin  
 - **Dosen Pengampu:** Ahmadi S.Kom, M.Kom  
  
